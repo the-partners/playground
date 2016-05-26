@@ -18,7 +18,6 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d8b130', end
 
 background: rgba(216,177,48,1);
 background: -moz-linear-gradient(30deg, rgba(216,177,48,1) 0%, rgba(186,131,44,1) 19%, rgba(190,147,47,1) 39%, rgba(241,194,52,1) 67%, rgba(149,105,10,1) 100%);
-background: -webkit-gradient(left bottom, right top, color-stop(0%, rgba(216,177,48,1)), color-stop(19%, rgba(186,131,44,1)), color-stop(39%, rgba(190,147,47,1)), color-stop(67%, rgba(241,194,52,1)), color-stop(100%, rgba(149,105,10,1)));
 background: -webkit-linear-gradient(30deg, rgba(216,177,48,1) 0%, rgba(186,131,44,1) 19%, rgba(190,147,47,1) 39%, rgba(241,194,52,1) 67%, rgba(149,105,10,1) 100%);
 background: -o-linear-gradient(30deg, rgba(216,177,48,1) 0%, rgba(186,131,44,1) 19%, rgba(190,147,47,1) 39%, rgba(241,194,52,1) 67%, rgba(149,105,10,1) 100%);
 background: -ms-linear-gradient(30deg, rgba(216,177,48,1) 0%, rgba(186,131,44,1) 19%, rgba(190,147,47,1) 39%, rgba(241,194,52,1) 67%, rgba(149,105,10,1) 100%);}

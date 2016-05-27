@@ -125,3 +125,5 @@ img, svg, video, audio {
   display:block;
   padding:1em;
 }
+.black {background-color:black;}
+.white-text{color:white;}

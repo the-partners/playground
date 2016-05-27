@@ -120,3 +120,8 @@ img, svg, video, audio {
 .width-6{width:6px;}
 .width-5{width:5px;}
 .width-4{width:4px;}
+
+.logo-stack{
+  display:block;
+  padding:1em;
+}

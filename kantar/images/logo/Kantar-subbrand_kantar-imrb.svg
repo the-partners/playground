@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 216 24.7" style="enable-background:new 0 0 216 24.7;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#1D1D1B;}
+	.st1{clip-path:url(#SVGID_2_);fill:url(#SVGID_3_);}
+	.st2{fill:#8990C7;}
+	.st3{clip-path:url(#SVGID_5_);fill:url(#SVGID_6_);}
+	.st4{clip-path:url(#SVGID_8_);fill:url(#SVGID_9_);}
+	.st5{fill:#EB6728;}
+	.st6{clip-path:url(#SVGID_11_);fill:url(#SVGID_12_);}
+	.st7{fill:#0075BE;}
+	.st8{clip-path:url(#SVGID_14_);fill:url(#SVGID_15_);}
+	.st9{fill:#009CDE;}
+	.st10{clip-path:url(#SVGID_17_);fill:url(#SVGID_18_);}
+	.st11{fill:#E6334C;}
+	.st12{clip-path:url(#SVGID_20_);fill:url(#SVGID_21_);}
+	.st13{fill:#00AA95;}
+	.st14{clip-path:url(#SVGID_23_);fill:url(#SVGID_24_);}
+	.st15{fill:#884E98;}
+	.st16{clip-path:url(#SVGID_26_);fill:url(#SVGID_27_);}
+	.st17{fill:#E5007E;}
+	.st18{clip-path:url(#SVGID_29_);fill:url(#SVGID_30_);}
+	.st19{fill:#E20613;}
+	.st20{clip-path:url(#SVGID_32_);fill:url(#SVGID_33_);}
+	.st21{fill:#00A139;}
+	.st22{clip-path:url(#SVGID_35_);fill:url(#SVGID_36_);}
+	.st23{fill:#9C9B9B;}
+	.st24{fill:#F29100;}
+	.st25{clip-path:url(#SVGID_38_);fill:url(#SVGID_39_);}
+	.st26{fill:#93C01F;}
+</style>
+<g>
+	<g>
+		<g>
+			<g>
+				<path class="st0" d="M93.1,15.3l3.2-9.8l3.2,9.8H93.1z M93.8,0l-8.3,24.7H90l1.8-5.4h8.9l1.7,5.4h4.6L98.8,0H93.8z"/>
+				<path class="st0" d="M29.9,15.3l3.2-9.8l3.2,9.8H29.9z M30.7,0l-8.3,24.7h4.6l1.8-5.4h8.9l1.7,5.4h4.6L35.6,0H30.7z"/>
+				<path class="st0" d="M114,4l5,0c4,0,4.6,2.3,4.6,3.6c0,3.1-2.9,3.6-4.6,3.6h-5V4z M122.4,14.8c3.5-0.9,5.4-3.5,5.4-7.2
+					c0-4.6-3.4-7.6-8.6-7.6h-9.5v24.7h4.3v-9.5h3.4l7,9.5h5.4L122.4,14.8z"/>
+				<polygon class="st0" points="62.5,16.8 50.8,0 46.5,0 46.5,24.7 50.8,24.7 50.8,7.9 62.5,24.7 66.7,24.7 66.7,0 62.5,0 				"/>
+				<polygon class="st0" points="89.6,0 69.9,0 69.9,4 77,4 77,24.7 81.3,24.7 81.3,4 88,4 				"/>
+				
+					<rect x="-10.2" y="10.2" transform="matrix(-2.773694e-04 -1 1 -2.773694e-04 -10.1868 14.4781)" class="st0" width="24.7" height="4.3"/>
+				<polygon class="st0" points="19.8,0 14.8,0 5.9,12.3 14.8,24.7 20,24.7 11.1,12.3 				"/>
+				<g>
+					<defs>
+						<rect id="SVGID_28_" x="4.3" width="1.5" height="24.7"/>
+					</defs>
+					<clipPath id="SVGID_2_">
+						<use xlink:href="#SVGID_28_"  style="overflow:visible;"/>
+					</clipPath>
+					
+						<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="-211.8182" y1="32.0319" x2="-211.1342" y2="32.0319" gradientTransform="matrix(0 -36.0551 -36.0551 0 1159.9642 -7612.4717)">
+						<stop  offset="0" style="stop-color:#F0E173"/>
+						<stop  offset="0.2833" style="stop-color:#F0C334"/>
+						<stop  offset="0.606" style="stop-color:#C79A32"/>
+						<stop  offset="0.7855" style="stop-color:#F0C334"/>
+						<stop  offset="1" style="stop-color:#976C32"/>
+					</linearGradient>
+					<rect x="4.3" y="0" class="st1" width="1.5" height="24.7"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<path class="st19" d="M140.9,8.2h3.3v16.5h-3.3V8.2z"/>
+		<path class="st19" d="M162.4,19.4H160l-7.2-11.3v16.5h-3.5V0.1h2.5l9.5,15l9.5-15h2.5v24.6h-3.5V8.1L162.4,19.4z"/>
+		<path class="st19" d="M181.3,13.1v11.6h-3.5V0.1h8.6c2.2,0,3.7,0.5,4.8,1.4c1.5,1.2,2.4,3,2.4,5.1c0,2-0.9,3.9-2.4,5.1
+			c-0.8,0.6-1.7,1.1-2.9,1.3l8.8,11.7h-4.3l-8.7-11.6H181.3z M186.2,9.7c1.6,0,2.4-0.4,3-0.9c0.6-0.6,0.9-1.4,0.9-2.2
+			s-0.4-1.7-0.9-2.2c-0.6-0.6-1.4-0.9-3-0.9h-4.9v6.3H186.2z"/>
+		<path class="st19" d="M198.4,24.7V0.1h8.4c2.4,0,3.9,0.7,5.1,1.7c1.3,1.2,2,2.8,2,4.7c0,1.7-0.8,3.3-1.9,4.4c2.3,1.2,4,3.7,4,6.5
+			c0,2.3-1.1,4.4-2.7,5.7c-1.3,1.1-2.9,1.7-5.4,1.7H198.4z M206.2,9.7c2,0,2.8-0.4,3.4-1c0.5-0.6,0.8-1.3,0.8-2.1s-0.3-1.6-0.8-2.1
+			c-0.6-0.6-1.4-1-3.4-1H202v6.3H206.2z M207.3,21.3c2.2,0,3.3-0.5,4-1.3c0.7-0.7,1.2-1.8,1.2-2.9s-0.5-2.1-1.2-2.8
+			c-0.8-0.8-1.8-1.3-4-1.3H202v8.3H207.3z"/>
+	</g>
+	<rect x="140.9" y="0.1" class="st19" width="65.6" height="3.3"/>
+</g>
+</svg>

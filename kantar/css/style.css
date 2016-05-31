@@ -125,5 +125,8 @@ img, svg, video, audio {
   display:block;
   padding:1em;
 }
+
 .black {background-color:black;}
 .white-text{color:white;}
+
+.height-50 {height:50px;}

@@ -129,4 +129,5 @@ img, svg, video, audio {
 .black {background-color:black;}
 .white-text{color:white;}
 
-.height-50 {height:1em;}
+.height-1em {height:1em;}
+.height-bigger {height:1.5em;}

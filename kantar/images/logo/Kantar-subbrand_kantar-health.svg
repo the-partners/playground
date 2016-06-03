@@ -10,26 +10,25 @@
 	.st4{clip-path:url(#SVGID_8_);fill:url(#SVGID_9_);}
 	.st5{fill:#EB6728;}
 	.st6{clip-path:url(#SVGID_11_);fill:url(#SVGID_12_);}
-	.st7{fill:#0075BE;}
-	.st8{clip-path:url(#SVGID_14_);fill:url(#SVGID_15_);}
-	.st9{fill:#009CDE;}
-	.st10{clip-path:url(#SVGID_17_);fill:url(#SVGID_18_);}
-	.st11{fill:#E6334C;}
-	.st12{clip-path:url(#SVGID_20_);fill:url(#SVGID_21_);}
-	.st13{fill:#00AA95;}
-	.st14{clip-path:url(#SVGID_23_);fill:url(#SVGID_24_);}
-	.st15{fill:#884E98;}
-	.st16{clip-path:url(#SVGID_26_);fill:url(#SVGID_27_);}
-	.st17{fill:#E5007E;}
-	.st18{clip-path:url(#SVGID_29_);fill:url(#SVGID_30_);}
-	.st19{fill:#E20613;}
-	.st20{clip-path:url(#SVGID_32_);fill:url(#SVGID_33_);}
-	.st21{fill:#00A139;}
-	.st22{clip-path:url(#SVGID_35_);fill:url(#SVGID_36_);}
-	.st23{fill:#9C9B9B;}
-	.st24{fill:#F29100;}
-	.st25{clip-path:url(#SVGID_38_);fill:url(#SVGID_39_);}
-	.st26{fill:#93C01F;}
+	.st7{clip-path:url(#SVGID_14_);fill:url(#SVGID_15_);}
+	.st8{fill:#00AEC2;}
+	.st9{clip-path:url(#SVGID_17_);fill:url(#SVGID_18_);}
+	.st10{fill:#E6334C;}
+	.st11{clip-path:url(#SVGID_20_);fill:url(#SVGID_21_);}
+	.st12{fill:#B3B3B3;}
+	.st13{clip-path:url(#SVGID_23_);fill:url(#SVGID_24_);}
+	.st14{fill:#884E98;}
+	.st15{clip-path:url(#SVGID_26_);fill:url(#SVGID_27_);}
+	.st16{fill:#E5007E;}
+	.st17{clip-path:url(#SVGID_29_);fill:url(#SVGID_30_);}
+	.st18{fill:#E20613;}
+	.st19{clip-path:url(#SVGID_32_);fill:url(#SVGID_33_);}
+	.st20{fill:#D3D800;}
+	.st21{clip-path:url(#SVGID_35_);fill:url(#SVGID_36_);}
+	.st22{fill:#F29100;}
+	.st23{clip-path:url(#SVGID_38_);fill:url(#SVGID_39_);}
+	.st24{fill:#93C01F;}
+	.st25{fill:#0075BE;}
 </style>
 <g>
 	<g>
@@ -62,16 +61,16 @@
 		</g>
 	</g>
 	<g>
-		<path class="st11" d="M141,0v24.8h3.5V13.1V9.8V0H141z M158.4,0v9.8v3.4v11.7h3.5V0H158.4z"/>
-		<polygon class="st11" points="167.5,0 167.5,24.8 182,24.8 182,21.5 171,21.5 171,13.1 179.2,13.1 179.2,9.8 171,9.8 171,3.4 
+		<path class="st10" d="M141,0v24.8h3.5V13.1V9.8V0H141z M158.4,0v9.8v3.4v11.7h3.5V0H158.4z"/>
+		<polygon class="st10" points="167.5,0 167.5,24.8 182,24.8 182,21.5 171,21.5 171,13.1 179.2,13.1 179.2,9.8 171,9.8 171,3.4 
 			181.7,3.4 181.7,0 		"/>
-		<path class="st11" d="M195,5.9l3.8,9.2h-7.7L195,5.9z M193.7,0l-10.3,24.8h3.7l2.6-6.4h10.5l2.6,6.4h3.7L196.2,0H193.7z"/>
-		<polygon class="st11" points="209,0 209,24.8 223.5,24.8 223.5,21.5 212.5,21.5 212.5,0 		"/>
-		<polygon class="st11" points="221.8,0 221.8,3.4 228.5,3.4 228.5,24.8 232,24.8 232,3.4 238.8,3.4 238.8,0 		"/>
-		<polygon class="st11" points="259,0 259,10.4 245.2,10.4 245.2,0 241.6,0 241.6,24.8 245.2,24.8 245.2,13.7 259,13.7 259,24.8 
+		<path class="st10" d="M195,5.9l3.8,9.2h-7.7L195,5.9z M193.7,0l-10.3,24.8h3.7l2.6-6.4h10.5l2.6,6.4h3.7L196.2,0H193.7z"/>
+		<polygon class="st10" points="209,0 209,24.8 223.5,24.8 223.5,21.5 212.5,21.5 212.5,0 		"/>
+		<polygon class="st10" points="221.8,0 221.8,3.4 228.5,3.4 228.5,24.8 232,24.8 232,3.4 238.8,3.4 238.8,0 		"/>
+		<polygon class="st10" points="259,0 259,10.4 245.2,10.4 245.2,0 241.6,0 241.6,24.8 245.2,24.8 245.2,13.7 259,13.7 259,24.8 
 			262.5,24.8 262.5,0 		"/>
-		<polyline class="st11" points="159.4,13.6 143.9,13.6 143.9,10.2 159.4,10.2 		"/>
-		<rect x="243.9" y="10.3" class="st11" width="29.6" height="3.4"/>
+		<polyline class="st10" points="159.4,13.6 143.9,13.6 143.9,10.2 159.4,10.2 		"/>
+		<rect x="243.9" y="10.3" class="st10" width="29.6" height="3.4"/>
 	</g>
 </g>
 </svg>

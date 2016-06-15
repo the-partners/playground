@@ -36,11 +36,18 @@ section {
   margin:auto;
 }
 
+.indicator {
+  text-align: center;
+  color:white;}
+
+.indicator-black {
+  text-align: center;
+  color:black;}
 
 
 .logo1 {
-  width: 300px;
-  height: 300px;
+  width: 18.750em;
+  height: 18.750em;
   background: url(logo1.png);
   background-position: center top;
   margin:auto;  
@@ -48,35 +55,41 @@ section {
 
 
 .logo2 {
-  width: 300px;
-  height: 300px;
+  width: 18.750em;
+  height: 18.750em;
   background: url(logo2.png);
   background-position: center top;
   margin:auto;  
 }
 
-
 /* mobile */ 
 @media only screen and (min-width: 15em) {
   .logo1, .logo2{background-position: left -900px;}
-  .top {background-color: red} 
+  .top {background-color: black} 
+  .indicator:after {content:"Avatar"}
+  .indicator-black:after {content:"Avatar"}
 }
 
 /* tablet */
 @media only screen and (min-width: 28em) {
   .logo1, .logo2{background-position: center -600px;}
-  .top {background-color: green} 
+  .top {background-color: black} 
+  .indicator:after {content:"65/45"}
+  .indicator-black:after {content:"65/45"}
 }
 
 /*laptop */
 @media only screen and (min-width: 45em){
   .logo1, .logo2{background-position: center -300px;}
-  .top {background-color: grey} 
+  .top {background-color: black}
+  .indicator:after {content:"75/25"}
+  .indicator-black:after {content:"75/25"}
 }
 
 /* desktop */
 @media only screen and (min-width: 60em){
   .logo1, .logo2{background-position: center 0px;}
-    .top {background-color: yellow} 
-
+  .top {background-color: black}
+  .indicator:after {content:"75/25"}
+  .indicator-black:after {content:"75/25"}
  }
